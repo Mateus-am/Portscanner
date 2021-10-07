@@ -15,7 +15,7 @@ Neste trecho é solicitado o ip do alvo que você quer escanear.
 Aqui se faz o uso da biblioteca socket para verificar as portas no range estabelecido.
 ![image](https://user-images.githubusercontent.com/82810317/136414731-5497f4a7-41b5-4b99-a38e-07d1f55b95da.png)
 
-## Requisitos para rodar o código
+## Requisitos:
 Versão do python 3 ou superior.
 
 Recomendavel a execução em ambiente Linux.
