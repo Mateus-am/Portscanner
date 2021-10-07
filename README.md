@@ -1,10 +1,12 @@
 # Portscanner
 
-➡️Breve explicação sobre o código:
+➡️ Sobre o código:
 
 Aplicação desenvolvida e validada em sistema operacional Linux.
 
 Esté código foi construído utilizando a biblioteca SOCKET e seu objetivo é buscar por portas abertas no indereço de ip especificado pelo usuário. Simulando um nmap.
+
+➡️Breve explicação:
 
 Neste trecho ele pede o ip do alvo que você quer escanear.
 
