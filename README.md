@@ -20,4 +20,5 @@ Versão do python 3 ou superior.
 
 Recomendavel a execução em ambiente Linux.
 
+## Vídeo:
 ➡️Link para a explicação no youtube:
