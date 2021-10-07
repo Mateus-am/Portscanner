@@ -5,6 +5,7 @@ O código foi desenvolvido em um sistema operacional linux e portanto eu sugiro 
 Ele é um código bem simples utilizando a biblioteca socket para fazer a verificação de portas, simulando o nmap.
 
 Neste trecho ele pede o ip do alvo que você quer escanear.
+
 ![image](https://user-images.githubusercontent.com/82810317/136414514-6000b8de-9031-47a4-be44-adb43e005544.png)
 
 Aqui ele faz o uso da biblioteca socket e verifica as portas no range estabelecido
