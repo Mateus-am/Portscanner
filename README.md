@@ -4,7 +4,7 @@
 
 Aplicação desenvolvida e validada em sistema operacional Linux.
 
-Esté código foi construído utilizando a biblioteca SOCKET e seu objetivo é buscar por portas abertas no indereço de ip especificado pelo usuário. Simulando um nmap.
+Esté código foi construído utilizando a biblioteca SOCKET e seu objetivo é buscar por portas abertas no endereço de ip especificado pelo usuário. Simulando um nmap.
 
 ➡️Breve explicação:
 
