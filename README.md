@@ -22,4 +22,5 @@ Recomendavel a execução em ambiente Linux.
 
 ## Vídeo:
 ➡️Link para a explicação no youtube:
+
 https://www.youtube.com/watch?v=TXChmzYTZVI
