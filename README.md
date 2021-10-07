@@ -8,11 +8,11 @@ Esté código foi construído utilizando a biblioteca SOCKET e seu objetivo é b
 
 ➡️Breve explicação:
 
-Neste trecho ele pede o ip do alvo que você quer escanear.
+Neste trecho é solicitado o ip do alvo que você quer escanear.
 
 ![image](https://user-images.githubusercontent.com/82810317/136414514-6000b8de-9031-47a4-be44-adb43e005544.png)
 
-Aqui ele faz o uso da biblioteca socket e verifica as portas no range estabelecido
+Aqui se faz o uso da biblioteca socket para verificar as portas no range estabelecido.
 ![image](https://user-images.githubusercontent.com/82810317/136414731-5497f4a7-41b5-4b99-a38e-07d1f55b95da.png)
 
 ## Requisitos para rodar o código
