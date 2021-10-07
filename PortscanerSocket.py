@@ -1,3 +1,14 @@
+'''
+FIAP
+Defesa Cibernética - 1TDCF - 2021
+Development e Coding for Security
+Prof. Ms. Fábio H. Cabrini
+Atividade: Checkpoint 2 - 2° Semestre
+Alunos:
+João Paulo Silva de Queiroz - RM86376
+Mateus Amado Monteiro da Silva - RM87974
+'''
+
 import socket
 
 ip = input("Digite o ip do alvo: ")
