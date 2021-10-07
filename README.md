@@ -1,8 +1,8 @@
 # Portscanner
 
-O código foi desenvolvido em um sistema operacional linux e portanto eu sugiro que ele seja exescutado no mesmo.
+Aplicação desenvolvida em sistema operacional linux e portanto eu sugiro que ele seja exescutado no mesmo.
 
-Ele é um código bem simples utilizando a biblioteca socket para fazer a verificação de portas, simulando o nmap.
+Código simples que foi construído utilizando a biblioteca socket para fazer a verificação de portas, simulando o nmap.
 
 Neste trecho ele pede o ip do alvo que você quer escanear.
 
